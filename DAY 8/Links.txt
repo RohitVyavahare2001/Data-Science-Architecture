@@ -1,0 +1,5 @@
+1.https://tensorspace.org/index.html
+2.https://cs.stanford.edu/people/karpathy/convnetjs/demo/mnist.html
+3.https://netron.app/
+4.https://viscom.net2vis.uni-ulm.de/bc5SYlVecXEojTdsXrhkv1SDeit1FzziengqgjWpzKbVoQ1K0e
+5.https://poloclub.github.io/cnn-explainer/
