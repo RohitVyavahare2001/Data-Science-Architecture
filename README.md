@@ -1,1 +1,90 @@
-<div align="center"> <h2>🌌 QUANTUM TECH MATRIX 🌌</h2> <table border="0" align="center"> <tr> <td align="center" width="140" height="112.43"> <img src="https://techstack-generator.vercel.app/python-icon.svg" width="65" height="65" alt="Python"/> <br>Quantum Python </td> <td align="center" width="140" height="112.43"> <img src="https://techstack-generator.vercel.app/js-icon.svg" width="65" height="65" alt="JavaScript"/> <br>Neural JS </td> <td align="center" width="140" height="112.43"> <img src="https://techstack-generator.vercel.app/docker-icon.svg" width="65" height="65" alt="Docker"/> <br>AI Container </td> </tr> </table> </div> <div align="center"> <h2>🧠 NEURAL ACTIVATION MAP 🧠</h2> </div> <div align="center"> <h2>🤖 AI FRAMEWORK MATRIX 🤖</h2> <table> <tr> <td align="center"> <h3>Core AI Engines</h3> <img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white" /> <img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white" /> <img src="https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white" /> <img src="https://img.shields.io/badge/JAX-%23A8B9CC.svg?style=for-the-badge&logo=jax&logoColor=white" /> </td> </tr> <tr> <td align="center"> <h3>Quantum Frameworks</h3> <img src="https://img.shields.io/badge/Qiskit-%236929C4.svg?style=for-the-badge&logo=Qiskit&logoColor=white" /> <img src="https://img.shields.io/badge/Cirq-%23000000.svg?style=for-the-badge&logo=cirq&logoColor=white" /> </td> </tr> </table> </div> <div align="center"> <h2>🎯 HOLOGRAPHIC PROJECT MATRIX 🎯</h2> <table> <tr> <td> <div align="center"> <img src="https://raw.githubusercontent.com/gist/patevs/b007a0e98fb216438d4cbf559fac4166/raw/88f20c9d749d756be63f22b09f3c4ac570bc5101/programming.gif" width="100%" height="200px"/> <br> <pre> // Quantum Computing Projects quantum_state = |ψ⟩ = α|0⟩ + β|1⟩ where α² + β² = 1</pre> </div> </td> <td> <div align="center"> <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" width="100%" height="200px"/> <br> <pre> // Neural Network Architecture ∑(wi * xi + b) → φ(∑) → output where φ is activation function</pre> </div> </td> </tr> </table> </div> <div align="center"> <h2>📊 QUANTUM PERFORMANCE METRICS 📊</h2> <img src="https://github-readme-activity-graph.vercel.app/graph?username=rohitvyavahare2001&custom_title=Quantum%20Neural%20Activity%20Matrix&theme=high-contrast&bg_color=000000&color=00ff00&line=ff00ff&point=ffffff&area=true&hide_border=true" width="100%"> <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=rohitvyavahare2001&show_icons=true&theme=radical&title_color=00ff00&text_color=00ff00&bg_color=000000&hide_border=true" width="49%" /> <img src="https://github-readme-streak-stats.herokuapp.com/?user=rohitvyavahare2001&theme=matrix&hide_border=true&background=000000&ring=00ff00&fire=ff00ff&currStreakLabel=00ff00" width="49%" /> </p> </div> <div align="center"> <h2>🔄 NEURAL SYNAPSES 🔄</h2> <a href="https://www.linkedin.com/in/your-linkedin" target="_blank"> <img src="https://img.shields.io/badge/Neural_Link-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/> </a> <a href="mailto:your.email@example.com"> <img src="https://img.shields.io/badge/Quantum_Mail-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white"/> </a> <a href="https://twitter.com/your-twitter" target="_blank"> <img src="https://img.shields.io/badge/Thought_Stream-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white"/> </a> </div> <div align="center"> <h2>⚡ QUANTUM CONSCIOUSNESS MONITOR ⚡</h2> <img src="https://readme-typing-svg.herokuapp.com?font=Share+Tech+Mono&size=20&duration=2000&pause=1000&color=00FF00&center=true&vCenter=true&multiline=true&repeat=false&width=600&height=150&lines=Quantum+Processing+Capacity:+100%25;Neural+Network+Stability:+Optimal;Consciousness+Expansion:+In+Progress;System+State:+Enlightened" /> </div> <div align="center"> <img src="https://komarev.com/ghpvc/?username=rohitvyavahare2001&label=Quantum+Observers&color=00ff00&style=flat" alt="Quantum Observer Count" />
+import React from 'react';
+import { Github, Linkedin, Twitter, Mail } from 'lucide-react';
+
+const ProfileHeader = () => {
+  return (
+    <div className="w-full bg-gradient-to-r from-gray-900 to-blue-900 p-8 rounded-lg shadow-2xl">
+      {/* Main Title */}
+      <div className="text-center mb-8">
+        <h1 className="text-4xl font-bold bg-clip-text text-transparent bg-gradient-to-r from-blue-400 to-purple-600 mb-4">
+          🌟 NEURAL MATRIX ARSENAL 🌟
+        </h1>
+        <h2 className="text-2xl text-blue-300 font-semibold">Rohit Vyavahare</h2>
+        <div className="text-blue-400 mt-2 space-x-2">
+          <span>Data Science</span> • 
+          <span>AI</span> • 
+          <span>Machine Learning</span> • 
+          <span>Deep Learning</span> • 
+          <span>NLP</span> • 
+          <span>Generative AI</span>
+        </div>
+      </div>
+
+      {/* Tech Stack Grid */}
+      <div className="grid grid-cols-6 gap-4 mb-8">
+        {[
+          'Python', 'SQL', 'Jupyter', 'Flask', 'FastAPI', 'Matplotlib',
+          'Seaborn', 'Pandas', 'NumPy', 'Scikit-learn', 'PyTorch', 'TensorFlow',
+          'GPT', 'Llama', 'Langchain', 'VS Code', 'GitHub', 'React'
+        ].map((tech) => (
+          <div key={tech} className="bg-gray-800 p-3 rounded-lg text-center hover:bg-gray-700 transition-colors">
+            <div className="text-blue-400 font-semibold">{tech}</div>
+          </div>
+        ))}
+      </div>
+
+      {/* Code Block */}
+      <div className="bg-gray-800 p-4 rounded-lg mb-8 font-mono text-sm text-blue-300">
+        <pre>
+{`model.compile(
+    life = "Coding",
+    passion = "AI",
+    mission = "Innovation"
+)
+
+while alive:
+    eat()
+    sleep()
+    code()
+    repeat()`}
+        </pre>
+      </div>
+
+      {/* Timeline */}
+      <div className="bg-gray-800 p-4 rounded-lg mb-8">
+        <h3 className="text-2xl font-bold text-blue-400 mb-4">⚡ INNOVATION TIMELINE ⚡</h3>
+        <div className="space-y-4">
+          {[
+            { year: '2022', desc: 'Explored AI/ML, mastered Python & SQL fundamentals' },
+            { year: '2023', desc: 'Deep dived into Machine Learning, Deep Learning & NLP' },
+            { year: '2024', desc: 'Mastered Generative AI & Large Language Models' },
+            { year: '2025', desc: 'Advancing into AI Agents & Autonomous Systems' }
+          ].map(({ year, desc }) => (
+            <div key={year} className="flex items-center space-x-4">
+              <div className="text-purple-400 font-bold w-16">{year}</div>
+              <div className="flex-1 bg-gray-700 p-2 rounded">{desc}</div>
+            </div>
+          ))}
+        </div>
+      </div>
+
+      {/* Social Links */}
+      <div className="flex justify-center space-x-6">
+        <a href="https://www.linkedin.com/in/rohitvyavahare2001" className="text-blue-400 hover:text-blue-300">
+          <Linkedin className="w-6 h-6" />
+        </a>
+        <a href="https://x.com/RV_vyavahare" className="text-blue-400 hover:text-blue-300">
+          <Twitter className="w-6 h-6" />
+        </a>
+        <a href="mailto:rohitvyavahare2001@gmail.com" className="text-blue-400 hover:text-blue-300">
+          <Mail className="w-6 h-6" />
+        </a>
+        <a href="https://github.com" className="text-blue-400 hover:text-blue-300">
+          <Github className="w-6 h-6" />
+        </a>
+      </div>
+    </div>
+  );
+};
+
+export default ProfileHeader;
