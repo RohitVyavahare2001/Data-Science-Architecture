@@ -35,13 +35,18 @@ Contains multiple sets of interview questions:
 - **Set 7:** Scenario-based thinking questions.  
 - **Set 4:** NLP-related interview questions.  
 - **Set 3:** Deep Learning interview questions.  
-- **Set 2:** Machine Learning interview questions.  
+- **Set 2:** Machine Learning interview questions.
 
-### **Additional Contents**  
-- **Set 3:** GATE Data Science preparation materials.  
-- **Set 4:** Links to study Deep Learning architectures.  
-- **Set 5:** Day 9 contents, additional architecture, and sample resumes.  
-- **Set 6:** Day 8 contents, additional architecture, and sample resumes.  
+ ### **Day 8**  
+- **Set 3:** Deep Learning Files.
+- Links to visualize Computer Vision Models.
+
+ ### **Day 9**  
+- Addidational Architectures.
+- Sample Resume Files.  
+ 
+
+
 
 ## How to Use  
 - **For Interview Preparation:** Review the structured question sets categorized by topic.  
